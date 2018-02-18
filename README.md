@@ -1,5 +1,5 @@
-# CSC-591-Machine-Learning
-Project comparing semi-supervised and supervised learning techniques
+
+# Project comparing semi-supervised and supervised learning techniques
 
 There are 3 files to run to obtain the results.
 
